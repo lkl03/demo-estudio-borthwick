@@ -1,2 +1,7 @@
-# demo-estudio-borthwick
-Demo web para Estudio Borthwick — diseñada por eterlab.
+# Estudio Borthwick
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
